@@ -1,2 +1,4 @@
 # hello-world
 This is my first repository.
+
+Hi I'm Kyle. I'm a cool guy.
